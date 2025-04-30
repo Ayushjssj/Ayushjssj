@@ -11,7 +11,6 @@
   <a href="https://github.com/ayushjssj" target="_blank">
   <img src="https://img.shields.io/badge/FOLLOW%20%40AYUSHJSSJ-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow @ayushjssj" />
 </a>
-
 </p>
 
 ---
@@ -85,6 +84,6 @@
 
 ### 📌 Quote of the Day:
 
-<h4 align="center">Code is like humor. When you have to explain it, it’s bad."</h4>
+<h2 align="center">Code is like humor. When you have to explain it, it’s bad."</h2>
 
 ---
