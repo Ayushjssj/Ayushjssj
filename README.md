@@ -20,6 +20,10 @@
 - 🤝 Looking to collaborate on **open-source and academic projects.**
 - 📫 Reach me at: **payush1502@gmail.com**
 
+<p align="right">
+<img src="https://cdn.pixabay.com/photo/2017/01/31/13/14/avatar-2026510_1280.png" alt="developer" width="250"/>
+</p>
+
 ---
 
 ### 🌐 Connect with me:
@@ -84,6 +88,6 @@
 
 ### 📌 Quote of the Day:
 
-<h2 align="center">Code is like humor. When you have to explain it, it’s bad."</h2>
+<h4 align="center">Code is like humor. When you have to explain it, it’s bad."</h4>
 
 ---
