@@ -3,8 +3,14 @@
 <h3 align="center">An aspiring Machine Learning Engineer and Tech Enthusiast from India</h3>
 
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ayush-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-pandey" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ayushjssj?tab=followers">
+    <img src="https://img.shields.io/github/followers/ayushjssj?label=Follow&style=social" alt="Follow @ayushjssj" />
+  </a>
 </p>
 
 ---
@@ -49,12 +55,10 @@
 
 ### 📈 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushjssj&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushjssj&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushjssj&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjssj&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
