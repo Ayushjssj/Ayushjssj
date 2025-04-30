@@ -88,6 +88,6 @@
 
 ### 📌 Quote of the Day:
 
-<h4 align="center">Code is like humor. When you have to explain it, it’s bad."</h4>
+<h2 align="center">Code is like humor. When you have to explain it, it’s bad."</h2>
 
 ---
