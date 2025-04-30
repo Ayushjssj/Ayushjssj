@@ -1,35 +1,24 @@
 <h1 align="center">Hi 👋, I'm Ayush Pandey</h1>
 <h3 align="center">An aspiring Machine Learning Engineer and Tech Enthusiast from India</h3>
 
-<table>
-  <tr>
-    <!-- Left side: Text content and badges -->
-    <td style="vertical-align: top;">
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=ayush-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-      </p>
+<p align="right">
+  <img src="https://github.com/Ayushjssj/Ayushjssj/blob/main/Cartoon.gif?raw=true" alt="developer" width="250"/>
+</p>
 
-      <p>
-        <a href="https://github.com/ayushjssj" target="_blank">
-          <img src="https://img.shields.io/badge/FOLLOW%20%40AYUSHJSSJ-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow @ayushjssj" />
-        </a>
-      </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ayush-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-pandey" />
+</p>
 
-      <ul>
-        <li>🌟 I'm passionate about <strong>Artificial Intelligence, Machine Learning, and FullStack Web Development.</strong></li>
-        <li>🎓 Currently pursuing <strong>B.Tech from PSIT, Kanpur.</strong></li>
-        <li>🤝 Looking to collaborate on <strong>open-source and academic projects.</strong></li>
-        <li>📫 Reach me at: <a href="mailto:payush1502@gmail.com"><strong>payush1502@gmail.com</strong></a></li>
-      </ul>
-    </td>
+<p align="left">
+  <a href="https://github.com/ayushjssj" target="_blank">
+    <img src="https://img.shields.io/badge/FOLLOW%20%40AYUSHJSSJ-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow @ayushjssj" />
+  </a>
+</p>
 
-    <!-- Right side: Image -->
-    <td>
-      <img src="https://github.com/Ayushjssj/Ayushjssj/blob/main/Cartoon.gif?raw=true" alt="Developer cartoon" width="250" />
-    </td>
-  </tr>
-</table>
-
+- 🌟 I'm passionate about **Artificial Intelligence, Machine Learning, and FullStack Web Development.**
+- 🎓 Currently pursuing **B.Tech from PSIT, Kanpur.**
+- 🤝 Looking to collaborate on **open-source and academic projects.**
+- 📫 Reach me at: **payush1502@gmail.com**
 
 ---
 
