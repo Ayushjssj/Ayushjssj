@@ -21,8 +21,9 @@
 - 📫 Reach me at: **payush1502@gmail.com**
 
 <p align="right">
-<img src="https://cdn.pixabay.com/photo/2017/01/31/13/14/avatar-2026510_1280.png" alt="developer" width="250"/>
+  <img src="https://github.com/ayushjssj/your-repository-name/blob/main/images/avatar-2026510_1280.png?raw=true" alt="developer" width="250"/>
 </p>
+
 
 ---
 
