@@ -26,16 +26,17 @@
 ### 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ayush-pandey-a072003p" target="blank">
+  <a href="https://www.linkedin.com/in/ayush-pandey-a072003p" target="blank" style="margin-right: 15px;">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
   </a>
-  <a href="https://leetcode.com/u/ayushpandey1502/" target="blank">
+  <a href="https://leetcode.com/u/ayushpandey1502/" target="blank" style="margin-right: 15px;">
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="leetcode" height="30" width="30" />
   </a>
   <a href="mailto:payush1502@gamil.com">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
   </a>
 </p>
+
 
 ---
 
