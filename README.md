@@ -11,6 +11,7 @@
   </a>
 </p>
 ---
+
 - 🌟 I'm passionate about **Artificial Intelligence, Machine Learning, and FullStack Web Development.**
 - 🎓 Currently pursuing **B.Tech from PSIT, Kanpur.**
 - 🤝 Looking to collaborate on **open-source and academic projects.**
