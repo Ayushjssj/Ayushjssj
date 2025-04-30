@@ -53,8 +53,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushjssj&show_icons=true&theme=tokyonight" width="48%"/>
@@ -81,6 +79,6 @@
 
 ### 📌 Quote of the Day:
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+<p align="center"><i><bold>Code is like humor. When you have to explain it, it’s bad."<bold></i></p>
 
 ---
