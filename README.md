@@ -9,8 +9,8 @@
 
 <p align="left">
   <a href="https://github.com/ayushjssj" target="_blank">
-  <img src="https://img.shields.io/badge/FOLLOW%20%40AYUSHJSSJ-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow @ayushjssj" />
-</a>
+    <img src="https://img.shields.io/badge/FOLLOW%20%40AYUSHJSSJ-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow @ayushjssj" />
+  </a>
 </p>
 
 - 🌟 I'm passionate about **Artificial Intelligence, Machine Learning, and FullStack Web Development.**
@@ -22,6 +22,7 @@
   <img src="https://github.com/Ayushjssj/Ayushjssj/blob/main/Cartoon.gif?raw=true" alt="developer" width="250"/>
 </p>
 
+---
 
 ### 🌐 Connect with me:
 
@@ -38,8 +39,6 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
   </a>
 </p>
-
-
 
 ---
 
