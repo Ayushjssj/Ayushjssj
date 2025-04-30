@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/FOLLOW%20%40AYUSHJSSJ-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow @ayushjssj" />
   </a>
 </p>
-----
+---
 - 🌟 I'm passionate about **Artificial Intelligence, Machine Learning, and FullStack Web Development.**
 - 🎓 Currently pursuing **B.Tech from PSIT, Kanpur.**
 - 🤝 Looking to collaborate on **open-source and academic projects.**
