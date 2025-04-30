@@ -79,6 +79,6 @@
 
 ### 📌 Quote of the Day:
 
-<p align="center"><i><h4>Code is like humor. When you have to explain it, it’s bad."<h4></i></p>
+<h4 align="center">Code is like humor. When you have to explain it, it’s bad."</h4>
 
 ---
