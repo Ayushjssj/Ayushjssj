@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Pandey</h1>
 <h3 align="center">An aspiring Machine Learning Engineer and Tech Enthusiast from India</h3>
 
-<p align="right">
-  <img src="https://github.com/Ayushjssj/Ayushjssj/blob/main/Cartoon.gif?raw=true" alt="developer" width="250"/>
-</p>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ayush-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-pandey" />
 </p>
