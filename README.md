@@ -90,9 +90,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayushjssj&show_icons=true&theme=tokyonight" width="47%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjssj&layout=compact&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushjssj&show_icons=true&theme=tokyonight&cache_seconds=1800" width="47%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjssj&layout=compact&theme=tokyonight&cache_seconds=1800" width="47%" />
 </p>
 
 ---
@@ -108,7 +108,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayushjssj&theme=tokyonight&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushjssj&theme=tokyonight&no-frame=true&row=2&column=4" />
 </p>
 
 ---
