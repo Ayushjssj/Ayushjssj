@@ -1,85 +1,129 @@
 <h1 align="center">Hi 👋, I'm Ayush Pandey</h1>
-<h3 align="center">An aspiring Machine Learning Engineer and Tech Enthusiast from India</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ayush-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-pandey" />
+<h3 align="center">
+🚀 Aspiring GenAI & Agentic AI Engineer | Machine Learning Engineer | Full Stack Developer | AI Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushjssj&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ayushjssj" target="_blank">
-    <img src="https://img.shields.io/badge/FOLLOW%20%40AYUSHJSSJ-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow @ayushjssj" />
+<p align="center">
+  <a href="https://github.com/ayushjssj">
+    <img src="https://img.shields.io/github/followers/ayushjssj?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:payush1502@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-- 🌟 I'm passionate about **Artificial Intelligence, Machine Learning, and FullStack Web Development.**
-- 🎓 Currently pursuing **B.Tech from PSIT, Kanpur.**
-- 🤝 Looking to collaborate on **open-source and academic projects.**
+## 🚀 About Me
+
+- 🎓 Pursuing **B.Tech in CSE (AI & ML)** from **PSIT, Kanpur**
+- 🤖 Passionate about **Generative AI, Machine Learning, and AI-Powered Applications**
+- 🛠️ Building projects using **LLMs, RAG, Flask, React, FastAPI, and Python**
+- 🌱 Currently learning **Advanced AI Agents, RAG Pipelines, and Agentic AI**
+- 🤝 Open to collaborating on **AI, Open Source, and Research Projects**
 - 📫 Reach me at: **payush1502@gmail.com**
 
 ---
 
-### 🌐 Connect with me:
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ayush-pandey-a072003p" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/ayushpandey1502/" target="blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="leetcode" height="30" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:payush1502@gamil.com">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
-  </a>
+<a href="https://www.linkedin.com/in/ayush-pandey-a072003p" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="35" width="35" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/ayushpandey1502/" target="blank">
+<img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="leetcode" height="35" width="35" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:payush1502@gmail.com">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="35" width="35" />
+</a>
 </p>
 
 ---
 
-### 🧰 Languages and Tools:
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi" />
+</p>
+
+### 🧠 AI/ML
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+## 📌 Featured Projects
+
+### 🔹 Forge — Agentic AI Governance Platform
+- AI Governance & Security platform for testing and monitoring AI agents
+- Added RAG pipelines, semantic search, AI summarization, and deployment workflows
+
+### 🔹 Intelligent Surveillance System
+- Real-time AI surveillance using YOLOv5, Flask, and OpenCV
+- Implemented alert logging, authentication, and responsive dashboard
+
+### 🔹 LLM-Based Document Processing System
+- AI-powered document analysis using RAG and LLMs
+- Supports semantic search, clause extraction, and intelligent querying
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushjssj&show_icons=true&theme=tokyonight" width="45%" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjssj&layout=compact&theme=tokyonight" width="45%" height="200"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ayushjssj&show_icons=true&theme=tokyonight" width="47%" />
 
-
----
-
-### 🏆 GitHub Trophies:
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushjssj&theme=darkhub&margin-w=10&row=2&column=3" alt="trophies"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjssj&layout=compact&theme=tokyonight" width="47%" />
 </p>
 
 ---
 
-### 🔥 Streak Stats:
+## 🔥 GitHub Streak
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjssj&theme=radical" alt="streak stats"/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjssj&theme=tokyonight" />
 </p>
 
 ---
 
-### 📌 Quote of the Day:
+## 🏆 GitHub Trophies
 
-<h2 align="center">💡 "Code is like humor. When you have to explain it, it’s bad." </h2>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ayushjssj&theme=tokyonight&row=2&column=4" />
+</p>
 
 ---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushjssj&theme=tokyo-night" />
+</p>
+
+---
+
+<h3 align="center">💡 “First, solve the problem. Then, write the code.”</h3>
