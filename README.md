@@ -33,23 +33,18 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ayush-pandey-a072003p" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="35" width="35" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/ayushpandey1502/" target="blank">
-<img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="leetcode" height="35" width="35" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:payush1502@gmail.com">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="35" width="35" />
-</a>
+  <a href="https://www.linkedin.com/in/ayush-pandey-a072003p" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="35" width="35"/>
+  </a>
+  
+  <a href="https://leetcode.com/u/ayushpandey1502/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" height="35" width="35"/>
+  </a>
+  
+  <a href="mailto:payush1502@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35" width="35"/>
+  </a>
 </p>
-
 ---
 
 ## 🛠️ Tech Stack
