@@ -45,6 +45,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35" width="35"/>
   </a>
 </p>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -90,9 +91,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushjssj&show_icons=true&theme=tokyonight&cache_seconds=1800" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushjssj&show_icons=true&theme=tokyonight&cache_seconds=1800" width="47%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjssj&layout=compact&theme=tokyonight&cache_seconds=1800" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushjssj&layout=compact&theme=tokyonight&cache_seconds=1800" width="47%" />
 </p>
 
 ---
@@ -100,7 +101,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjssj&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushjssj&theme=tokyonight" />
 </p>
 
 ---
