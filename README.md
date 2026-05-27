@@ -80,7 +80,7 @@
 
 ### 🔹 Forge — Agentic AI Governance Platform
 - AI Governance & Security platform for testing and monitoring AI agents
-- Added RAG pipelines, semantic search, AI summarization, and deployment workflows
+- Integrated RAG pipelines, semantic search, AI monitoring, and governance workflows
 
 ### 🔹 Intelligent Surveillance System
 - Real-time AI surveillance using YOLOv5, Flask, and OpenCV
